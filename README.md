@@ -1,1 +1,3 @@
 # AI_Legal_Assistant
+- Legal assistance is an automated approach to providing accurate references, predictions and judgements to lawyers and legal professionals for case preparation using Machine Learning and Artificial intelligence. It reduces the time spent by the lawyer in the preparation of a case study for the client's representation in court. It also improves the overall quality of the case study by providing better references and
+best case-related judgments. This also helps the judiciary in its decision-making process. This research work is a critical analysis of various AI and Machine Learning approaches used to provide legal assistance to judicial systems all over the world.
